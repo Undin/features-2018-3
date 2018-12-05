@@ -1,0 +1,9 @@
+[package]
+name = "features-2018-3"
+version = "0.1.0"
+authors = ["Arseniy Pendryak <arseniy.pendryak@jetbrains.com>"]
+
+# 1. Navigation: Cmd+B on `diesel` to navigate to library root (lib.rs)
+# 2. Version completion: Remove "= "1.3.3"" and Ctrl+Space
+[dependencies]
+diesel = "1.3.3"
